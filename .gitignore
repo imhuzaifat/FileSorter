@@ -1,0 +1,9 @@
+# Compiled installer goes on the GitHub Releases page, not in the repo
+Output/
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Sort logs created while testing
+_SortLog.txt
